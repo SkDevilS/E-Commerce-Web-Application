@@ -65,8 +65,6 @@ credentials.json
 *.db
 *.sqlite
 *.sqlite3
-*.sql
-*.sql.gz
 truaxis.db
 truaxis_db.sqlite
 instance/
